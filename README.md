@@ -1,4 +1,4 @@
-- 👋 hi, i’m @mikeygrier, i used to be @mgregoro
+- 👋 hi, i’m @mikeygrier
 
 <!---
 mikeygrier/mikeygrier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
